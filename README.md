@@ -1,2 +1,0 @@
-# uzi
-Hellow world
